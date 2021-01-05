@@ -1,0 +1,60 @@
+body {
+    text-align: center;
+    font-family: 'Oxygen', sans-serif;;
+}
+
+h1 {
+    font-size: 3.5rem;
+}
+
+h2 {
+    font-size: 2.5rem;
+}
+
+hr {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    width: 70%;
+}
+
+p {
+    margin: 0;
+}
+
+/* Custom Section Styles */
+.section-style-1 {
+    background-color: #e7e7de;
+    margin: 0;
+    padding : 50px;
+}
+
+.section-style-2 {
+    background-color: #00587a;
+    color: #eff8ff;
+    margin: 0;
+    padding : 50px;
+}
+
+/* Custom Image Styles */
+.profile-image {
+    width: 50%;
+    border-radius: 50%;
+}
+
+.icon-img-style {
+    width: 3%;
+    margin: 2rem 2rem;
+}
+
+/* Specific Division Styles. Profile Image Cell Style */
+.div-style-1 {
+    padding: 2rem;
+}
+
+.div-style-2 {
+    padding: 4rem 0;
+}
+
+.div-style-3 {
+    padding: 2rem 15px;
+}
