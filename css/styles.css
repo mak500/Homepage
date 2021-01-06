@@ -25,14 +25,14 @@ p {
 .section-style-1 {
     background-color: #e7e7de;
     margin: 0;
-    padding : 50px;
+    padding : 150px 50px;
 }
 
 .section-style-2 {
     background-color: #00587a;
     color: #eff8ff;
     margin: 0;
-    padding : 50px;
+    padding : 150px 50px;
 }
 
 /* Custom Image Styles */
@@ -42,7 +42,7 @@ p {
 }
 
 .icon-img-style {
-    width: 3%;
+    width: 50px;
     margin: 2rem 2rem;
 }
 
